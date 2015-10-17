@@ -4,4 +4,7 @@ class StaticPagesController < ApplicationController
 
   def done
   end
+
+  def delete
+  end
 end
